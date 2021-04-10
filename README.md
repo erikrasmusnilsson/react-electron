@@ -37,5 +37,4 @@ The last step we need to perform is to alter the contents of `package.json` slig
 ```
 ## Run Your Application
 Finally, we can run the application! Start by running the React development server with `npm start`. Next, open up a new terminal window or tab and run eletron with `npm run electron-start`.
-![Image of running application]
-(./screenshot.png)
+![Image of running application](./screenshot.png)
